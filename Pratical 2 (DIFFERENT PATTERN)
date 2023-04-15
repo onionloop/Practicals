@@ -1,0 +1,16 @@
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+clrscr();
+int i,j,n;
+cout<<"Enter the limit";
+cin>>n;
+for( j=1;j<=i;j++)
+{
+cout<<"*";
+}
+cout<<"n";
+}
+getch();
+}
