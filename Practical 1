@@ -2,6 +2,6 @@
 #include<conio.h>
 void main()
 {
-cout<<"Hello Aditya";
+cout<<"Hello World";
 getch();
 }
